@@ -1,4 +1,4 @@
-# hotel-booking-demand
+# predicting-hotel-booking-demand
 ## Abstract:
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 This project aims to minimize hotels and resorts loss due to their clients cancel their reservation by creating using data science and machine learning techniques to predict the customer behavior and know if they will cancel their reservations in the future or not.
